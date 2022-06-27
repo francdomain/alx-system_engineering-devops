@@ -7,3 +7,4 @@
 6. a script that displays the third line of a file
 7. a script that creates a file
 8. a script that writes into a file
+9. a script that duplicates the last line of a file
