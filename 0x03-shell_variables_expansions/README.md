@@ -3,3 +3,4 @@
 2. script that Add /action to the PATH
 3. a script that counts the number of directories in the PATH
 4. a script that lists environment variables
+5. script that lists all local variables and environment variables, and functions.
